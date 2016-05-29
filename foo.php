@@ -6,5 +6,6 @@
 <H1>Date/Time Functions Demo</H1>
 <P>The current date and time is
 <EM><?echo date("D M d, Y H:i:s", time())?></EM>
+<p>test</p>
 </BODY>
 </HTML>
